@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://macx.ws/uploads/posts/2023-03/cleanshot-x.png" width="440" alt="CleanShot X Logo"/>
   <br/><br/>
-  <a href="https://instal-apps-osx.github.io/.github/cleanshotmac">
+  <a href="https://soft-mac-install.github.io/.github/cleanshotmac">
     <img src="https://img.shields.io/badge/Get%20CleanShot%20X%20for%20macOS-0A84FF?style=for-the-badge&logo=apple"/>
   </a>
 </div>
